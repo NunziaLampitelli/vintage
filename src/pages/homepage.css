@@ -1,0 +1,19 @@
+.homepage-page {
+    width: 50%;
+    height: 300px;
+    margin-block: 2rem;
+    margin-inline: auto;
+    background-color: #6B7C69;
+    border: solid 5px bisque ;
+    color: bisque;
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 5px #6B7C69;
+}
+
+.homepage-page article {
+    text-align: center;
+    padding: 2rem;
+}

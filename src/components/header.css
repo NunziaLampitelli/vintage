@@ -1,0 +1,40 @@
+.header {
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #4E6656;
+    color: bisque;
+    font-family: "Petit Formal Script", cursive;
+    box-shadow: 2px 2px 2px bisque;
+
+}
+
+
+.header > article {
+    display: flex;
+    width: 29%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.header > article:nth-child(2) {
+    justify-content: center;
+}
+
+.header-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.header a {
+ color: bisque;
+ font-size: 1.2rem;
+ text-decoration: none;
+}
+
+.header img {
+    width: 60px;
+    filter: invert();
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dawning+of+a+New+Day&family=Edu+NSW+ACT+Cursive:wght@400..700&family=Londrina+Sketch&family=Noto+Sans+Duployan:wght@400;700&family=Petit+Formal+Script&family=Poiret+One&family=Tuffy:ital,wght@0,400;0,700;1,400;1,700&family=Yusei+Magic&display=swap');
+
+
+body {
+    margin: auto;
+    background-color: #F6F1E7; 
+    background-image: 
+    url('./assets/yellow-flower-2-svgrepo-com.svg'),
+    url('./assets/flower-orange-3-svgrepo-com.svg');
+    background-repeat: repeat, repeat;       
+    background-position: 1000px 990px; 
+    background-size: 500px, 100px; 
+    box-sizing: border-box;
+}

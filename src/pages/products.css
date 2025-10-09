@@ -1,0 +1,46 @@
+.products-page {
+    background-color: bisque;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 9px;
+    font-family: "Petit Formal Script", cursive;
+    border: 5px solid  #4E6656;
+    color: #4E6656;
+}
+
+.products-page > section {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.category {
+    width: 15%;
+    height: auto;
+    padding-block: 1rem;
+    border-radius: 9px;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.category img {
+    width: 50%;
+}
+
+.category a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #4E6656;
+    font-weight: bold;
+}
