@@ -5,6 +5,8 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import Products from './pages/Products'
 import Shirts from './pages/Shirts'
+import Register from './pages/Register'
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
             <Route path="/" element={<Homepage />} />
             <Route path='/products' element={<Products />} />
             <Route path="/shirts" element={<Shirts />} />
+            <Route path='/register' element={<Register/>} />
           </Routes>
         </main>
         <Footer />

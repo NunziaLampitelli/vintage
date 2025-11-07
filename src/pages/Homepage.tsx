@@ -10,6 +10,7 @@ export default function Homepage() {
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </article>
             </div>
+            
         </>
     )
 }

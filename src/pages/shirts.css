@@ -42,3 +42,8 @@
     font-weight: bold;
 
 }
+
+.shirts-page h1 {
+    color: bisque;
+    text-shadow: 2px 2px #F58548;
+}
