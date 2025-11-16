@@ -11,7 +11,6 @@ export default function Footer() {
             </article>
 
             <article>
-                <img src="" alt="" />
                 <p>Vintage Clothes</p>
             </article>
 

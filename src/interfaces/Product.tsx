@@ -3,4 +3,6 @@ export interface Product {
   image: string
   name: string
   price: number
+  image_path: string;  
+  category?: string; 
 }
